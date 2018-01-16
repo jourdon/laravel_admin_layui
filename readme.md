@@ -16,10 +16,10 @@ git@github.com:jourdon/laravel_admin_layui.git
 生成配置文件
 ``` 
 cp .env.example .env
-安装 `composer` 扩展包
+```
+更新 `composer` 扩展包
 ```
 composer update
-```
 ```
 迁移数据库
 ``` 
